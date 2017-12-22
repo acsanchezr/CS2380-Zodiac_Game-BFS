@@ -1,0 +1,11 @@
+﻿  source.cpp
+c:\users\ana_m\onedrive\documentos\cs_stuff\cs2380\game\consoleapplication1\directedgraph.h(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\ana_m\onedrive\documentos\cs_stuff\cs2380\game\consoleapplication1\directedgraph.h(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\ana_m\onedrive\documentos\cs_stuff\cs2380\game\consoleapplication1\directedgraph.h(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\ana_m\onedrive\documentos\cs_stuff\cs2380\game\consoleapplication1\randomfunc.h(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ana_m\onedrive\documentos\cs_stuff\cs2380\game\consoleapplication1\gamegraph.h(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\ana_m\onedrive\documentos\cs_stuff\cs2380\game\consoleapplication1\gamegraph.h(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\ana_m\onedrive\documentos\cs_stuff\cs2380\game\consoleapplication1\gamegraph.h(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\ana_m\onedrive\documentos\cs_stuff\cs2380\game\consoleapplication1\gamegraph.h(69): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\ana_m\OneDrive\Documentos\CS_stuff\CS2380\game\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\ana_m\OneDrive\Documentos\CS_stuff\CS2380\game\Debug\ConsoleApplication1.pdb (Full PDB)
